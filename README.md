@@ -10,7 +10,6 @@
 - 💡 Exploring **AI + Web** and working on an **Autonomous Trash Segregation Bin (Patent Pending)**
 - 💼 Preparing for backend/system design interviews and shipping cool MERN apps
 - 📚 BTech CSE @ LPU | Specializing in **Full Stack Development**
-- 💘 In a beautiful relationship since 2015 ❤️ (yes, I’m a loyal guy who codes & loves)
 
 ---
 
@@ -24,11 +23,11 @@
 ### 🔥 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushYourUsername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-kumar-agarwal1&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushYourUsername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush-kumar-agarwal1&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushYourUsername&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-kumar-agarwal1&layout=compact&theme=dracula" />
 </p>
 
 ---
@@ -58,8 +57,3 @@
 </p>
 
 ---
-
-### 🎉 Just for Fun:
-
-```bash
-> curl https://piyush.dev/love
