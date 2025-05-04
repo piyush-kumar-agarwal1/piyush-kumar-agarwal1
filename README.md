@@ -11,13 +11,13 @@
 
 I'm a tech enthusiast who thrives on creating meaningful and engaging digital experiences. Whether it's crafting beautiful frontends or building powerful backends, I enjoy every part of full stack development.
 
-- 🧑‍💻 Currently exploring AI integration in web projects  
-- 🎨 Aesthetics matter! I love blending creativity with code  
-- 🎮 I recharge with games, anime, and lots of memes  
+🧑‍💻 Currently exploring AI integration in web projects
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212231772-5c80f0ce-0d42-4fc2-b2e3-7e6b96437953.gif" width="300" alt="Animated Girl Coding" />
-</p>
+🎨 Aesthetics matter! I love blending creativity with code
+
+🎮 I recharge with games, anime, and lots of memes
+
+<p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lqYXV4enFuN3luaHVyMjdjcWx3ZHE3aTdvYjFqNmdoYnJzeW9mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" alt="One Piece Anime Gif" /> </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-kumar-agarwal/" target="_blank">
