@@ -1,71 +1,58 @@
-<h2 align="left">Hi 👋! I'm Piyush Kumar Agarwal, a passionate Full Stack Developer from India</h2>
+<h1 align="center">Hey there! 👋 I'm Piyush</h1>
+<h3 align="center">🎓 BTech CSE @ LPU | 💻 Full Stack Dev | 🚀 Building Cool Stuff</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apiyush&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apiyush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<h3 align="left">💻 About Me</h3>
-
-<p align="left">
-I'm a B.Tech CSE student at LPU, deeply interested in Full Stack Web Development, System Design, and solving real-world problems through tech.<br><br>
-🔭 I’m currently working on: A digital ticketing system for event management at LPU<br>
-🌱 I’m currently learning: System Design, Backend Architecture, and DSA<br>
-👨‍💻 All of my projects are available at: <a href="https://apiyush.vercel.app/" target="_blank">apiyush.vercel.app</a><br>
-📫 Reach me at: <a href="mailto:chatwithapiyush@gmail.com">chatwithapiyush@gmail.com</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Create.+Conquer.;Lover+of+Clean+Code+and+Coffee.;Always+Learning+Something+New!&center=true&width=500&height=45">
 </p>
 
-###
+---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+### 👨‍💻 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-</div>
+- 💼 Aspiring Product Analyst | Full Stack Developer  
+- 🏫 Student @ **Lovely Professional University**, Punjab  
+- 🌐 Portfolio: [apiyush.vercel.app](https://apiyush.vercel.app)  
+- ✉️ Email: [chatwithapiyush@gmail.com](mailto:chatwithapiyush@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/piyush-kumar-agarwal](https://www.linkedin.com/in/piyush-kumar-agarwal/)  
+- 💡 Currently working on: Event Ticketing System for LPU  
+- 📚 Learning: System Design, Backend Architecture, Advanced DSA
 
-###
+---
 
-<h3 align="left">🌐 Connect with Me</h3>
+### 🛠️ Tech Stack
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/piyush-kumar-agarwal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:chatwithapiyush@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://apiyush.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,cpp,java,python,firebase,vercel,git" />
+</p>
 
-###
+---
 
-<h3 align="left">🔥 GitHub Streak</h3>
+### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=apiyush&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush-kumar-agarwal1&show_icons=true&theme=tokyonight&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-kumar-agarwal1&layout=compact&theme=tokyonight&hide_border=false" height="165"/>
+</p>
 
-###
+---
 
-<div align="center">
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=piyush-kumar-agarwal1&theme=tokyonight&hide_border=false" height="200" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+</p>
+
+---
+
+<p align="center">
+  <b>“Consistency is greater than intensity.”</b><br>
+  Let’s build something amazing together!
+</p>
