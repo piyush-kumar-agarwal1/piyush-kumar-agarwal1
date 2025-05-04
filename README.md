@@ -7,22 +7,18 @@
 
 ---
 
-### 🧠 About Me
+### 💬 About Me
+
+I'm a tech enthusiast and full stack developer passionate about creating impactful digital experiences that blend functionality with elegant design.
 
 <div align="center">
-  <img align="right" width="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFjNmp3bG5xM2JsbGV0MzZhODczNnFoc2llb3M2ajdyOTdhZGY0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-  <div align="left">
-    <p>I'm a tech enthusiast and full stack developer passionate about creating impactful digital experiences that blend functionality with elegant design.</p>
-    
-    <ul>
-      <li>🔭 I'm currently working on <b>AI-enhanced web applications</b></li>
-      <li>🌱 I'm currently learning <b>NextJS, TypeScript, and GraphQL</b></li>
-      <li>💡 I love solving complex problems with clean, efficient code</li>
-      <li>🎯 Goal: Contributing to open source and building products that matter</li>
-      <li>⚡ Fun fact: When I'm not coding, I enjoy anime, gaming, and discovering new music</li>
-    </ul>
-  </div>
+  - 🔭 I'm currently working on **AI-enhanced web applications**
+  - 🌱 I'm currently learning **NextJS, TypeScript, and GraphQL**
+  - 💡 I love solving complex problems with clean, efficient code
+  - 🎯 Goal: Contributing to open source and building products that matter
+  - ⚡ Fun fact: When I'm not coding, I enjoy anime, gaming, and discovering new music
 </div>
 
 <details>
