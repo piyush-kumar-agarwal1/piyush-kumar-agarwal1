@@ -9,15 +9,32 @@
 
 ### 🧠 About Me
 
-I'm a tech enthusiast who thrives on creating meaningful and engaging digital experiences. Whether it's crafting beautiful frontends or building powerful backends, I enjoy every part of full stack development.
+<div align="center">
+  <img align="right" width="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFjNmp3bG5xM2JsbGV0MzZhODczNnFoc2llb3M2ajdyOTdhZGY0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-🧑‍💻 Currently exploring AI integration in web projects
+  <div align="left">
+    <p>I'm a tech enthusiast and full stack developer passionate about creating impactful digital experiences that blend functionality with elegant design.</p>
+    
+    <ul>
+      <li>🔭 I'm currently working on <b>AI-enhanced web applications</b></li>
+      <li>🌱 I'm currently learning <b>NextJS, TypeScript, and GraphQL</b></li>
+      <li>💡 I love solving complex problems with clean, efficient code</li>
+      <li>🎯 Goal: Contributing to open source and building products that matter</li>
+      <li>⚡ Fun fact: When I'm not coding, I enjoy anime, gaming, and discovering new music</li>
+    </ul>
+  </div>
+</div>
 
-🎨 Aesthetics matter! I love blending creativity with code
-
-🎮 I recharge with games, anime, and lots of memes
-
-<p align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lqYXV4enFuN3luaHVyMjdjcWx3ZHE3aTdvYjFqNmdoYnJzeW9mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" alt="One Piece Anime Gif" /> </p>
+<details>
+  <summary><b>🔍 More About My Coding Journey</b></summary>
+  <br>
+  <p>
+    My passion for programming began when I built my first website during college. Since then, I've been on a continuous learning journey, expanding my skills across the full stack spectrum.
+  </p>
+  <p>
+    I believe in writing code that's not just functional, but also maintainable and scalable. Whether I'm crafting responsive UIs or designing efficient backend systems, I always aim for that perfect balance between technical excellence and user experience.
+  </p>
+</details>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-kumar-agarwal/" target="_blank">
