@@ -7,15 +7,24 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
+I'm a tech enthusiast who thrives on creating meaningful and engaging digital experiences. Whether it's crafting beautiful frontends or building powerful backends, I enjoy every part of full stack development.
 
-- 💼 Aspiring Product Analyst | Full Stack Developer  
-- 🏫 Student @ **Lovely Professional University**, Punjab  
-- 🌐 Portfolio: [apiyush.vercel.app](https://apiyush.vercel.app)  
-- ✉️ Email: [chatwithapiyush@gmail.com](mailto:chatwithapiyush@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/piyush-kumar-agarwal](https://www.linkedin.com/in/piyush-kumar-agarwal/)  
-- 💡 Currently working on: Event Ticketing System for LPU  
-- 📚 Learning: System Design, Backend Architecture, Advanced DSA
+- 🧑‍💻 Currently exploring AI integration in web projects  
+- 🎨 Aesthetics matter! I love blending creativity with code  
+- 🎮 I recharge with games, anime, and lots of memes  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-kumar-agarwal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://apiyush.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/chatwithapiyush/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
