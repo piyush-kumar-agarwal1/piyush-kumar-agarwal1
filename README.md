@@ -8,6 +8,7 @@
 ---
 
 ### 🧠 About Me
+
 I'm a tech enthusiast who thrives on creating meaningful and engaging digital experiences. Whether it's crafting beautiful frontends or building powerful backends, I enjoy every part of full stack development.
 
 - 🧑‍💻 Currently exploring AI integration in web projects  
@@ -15,11 +16,15 @@ I'm a tech enthusiast who thrives on creating meaningful and engaging digital ex
 - 🎮 I recharge with games, anime, and lots of memes  
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212231772-5c80f0ce-0d42-4fc2-b2e3-7e6b96437953.gif" width="300" alt="Animated Girl Coding" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/piyush-kumar-agarwal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://apiyush.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/chatwithapiyush/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
