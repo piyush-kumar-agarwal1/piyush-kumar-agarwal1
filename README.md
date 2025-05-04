@@ -12,7 +12,7 @@
 I'm a tech enthusiast and full stack developer passionate about creating impactful digital experiences that blend functionality with elegant design.
 
 <div align="center">
-  <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" width="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J4YXRjMjJrYWl2c2NoMTNnZzZlcWM1cG96c2xrcDJzNjdlMjNhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif" />
 
   - 🔭 I'm currently working on **AI-enhanced web applications**
   - 🌱 I'm currently learning **NextJS, TypeScript, and GraphQL**
