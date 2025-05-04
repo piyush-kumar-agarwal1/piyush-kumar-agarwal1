@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a8b87f0-8b30-4ea8-9bfd-56e4348e3a3b)<h1 align="center">Hey there! 👋 I'm Piyush</h1>
+<h1 align="center">Hey there! 👋 I'm Piyush</h1>
 <h3 align="center">🎓 BTech CSE @ LPU | 💻 Full Stack Dev | 🚀 Building Cool Stuff</h3>
 
 <p align="center">
