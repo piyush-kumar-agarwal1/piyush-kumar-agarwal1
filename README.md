@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Piyush</h1>
+![image](https://github.com/user-attachments/assets/8a8b87f0-8b30-4ea8-9bfd-56e4348e3a3b)<h1 align="center">Hey there! 👋 I'm Piyush</h1>
 <h3 align="center">🎓 BTech CSE @ LPU | 💻 Full Stack Dev | 🚀 Building Cool Stuff</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 I'm a tech enthusiast and full stack developer passionate about creating impactful digital experiences that blend functionality with elegant design.
 
 <div>
-  <img align="right" width="320px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J4YXRjMjJrYWl2c2NoMTNnZzZlcWM1cG96c2xrcDJzNjdlMjNhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif" />
+  <img align="right" width="320px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
   - 🔭 I'm currently working on **AI-enhanced web applications**
   - 🌱 I'm currently learning **NextJS, TypeScript, and GraphQL**
